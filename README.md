@@ -1,16 +1,17 @@
-## Hi there 👋
 
-<!--
-**Sirine-Chebbi/Sirine-Chebbi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+                                                                                                        **السلام عليكم ورحمة الله وبركاته**  
+_______________________________________________________________________________________________________________________________________________________________________________________________________________________
+  																						
+																						I'm **Sirine Chebbi**  
+🎓 Engineering Student in Computer Science  
+💡 Currently exploring different fields (Data Science, Cloud, Software Engineering...)  
+🌱 Passionate about learning, building projects, and solving problems  
 
-Here are some ideas to get you started:
+🚩 **Languages**  
+Python · Java · JavaScript · SQL · PHP  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚩 **Technologies**  
+Docker · Git · Linux · MySQL  
+
+🚩 **Frameworks**  
+React · Flutter · Spring Boot · Django  
