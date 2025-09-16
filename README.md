@@ -1,8 +1,6 @@
-                  **السلام عليكم ورحمة الله وبركاته**  
-  																					
-							    I'm **Sirine Chebbi** 
-		   
-                       🎓 Engineering Student in Computer Science  
+*السلام عليكم ورحمة الله وبركاته**  
+  											I'm **Sirine Chebbi**
+		   						🎓 Engineering Student in Computer Science  
 					   
 💡 Currently exploring different fields (Data Science, Cloud, Software Engineering...)  
 
